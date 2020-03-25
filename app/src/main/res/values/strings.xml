@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">contextMenu</string>
+    <string name="hello">Настройки</string>
+
+    <string name="titleChangeColor">Поменять цвет</string>
+    <string name="titleChangeTextSize">Поменять размер шрифта</string>
+    <color name="red">#FFFF0000</color>
+    <color name="yellow">#FFFF00</color>
+</resources>
